@@ -1,1 +1,1 @@
-# xiaozhi-esp32-test
+# 小智AI ESP32-S3  测试仓库  用来做小智开发者认证
